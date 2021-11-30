@@ -1,6 +1,12 @@
 # DSGN 270 Assignment 3 - Social Integration Proof-of-Concept
 
-:start: How to Get Instagram Access Token
+### :pushpin:Market and Problem definition
+-  :camera: A Digital Influencer who wants show her photos from trips around the world to her new blog about traveling so she can get more visibility to get some  paid patership.
+(100-150 word summary of the market and problem that your social media integration solves).
+### 
+
+
+:lock: How to Get Instagram Access Token :lock:
 
 Step 1 - Register Application on Facebook for Developers. 
           1.1 Log into Facebook
@@ -29,12 +35,12 @@ Step 4 - Get the Access Token.
 Step 5 - Copy the Access Token to the Plugin Setting
 
 
-## Attributions:
+## :pushpin:Attributions:
 * Tony Grimmes(Instructor): Code sctructure
 * References:
 - https://docs.oceanwp.org/article/487-how-to-get-instagram-access-token
 
-## Submiting requirements:
+## :pushpin:Submiting requirements:
 Zip your project (excluding node_modules and .env file) and submit them to Brightspace.
 Include the following as a comment with your Brightspace submission:
 Relevant GH repo(s);
