@@ -1,7 +1,7 @@
 # DSGN 270 Assignment 3 - Social Integration Proof-of-Concept
 
 ### :pushpin:Market and Problem definition
--  :camera: A Digital Influencer who wants show her photos from trips around the world to her new blog about traveling so she can get more visibility to get some  paid patership.
+-  :camera: A Digital Influencer who wants show her photos from trips around the world to her new blog about traveling so she can get more visibility to get some  paid patenership.
 (100-150 word summary of the market and problem that your social media integration solves).
 ### 
 
@@ -37,6 +37,7 @@ Step 5 - Copy the Access Token to the Plugin Setting
 
 ## :pushpin:Attributions:
 * Tony Grimmes(Instructor): Code sctructure
+* Images (instagram):Pexels (to add)
 * References:
 - https://docs.oceanwp.org/article/487-how-to-get-instagram-access-token
 
