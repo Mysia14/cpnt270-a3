@@ -3,12 +3,9 @@ const axios = require('axios');
 require('dotenv').config();
 
 exports.handler = function instagram(event, context, callback) {
-  const endpoint = 'https://graph.instagram.com';
-  const userId = '17841412370746239';
-  const fields = 'id,caption,media_url,permalink';
-  const token = process.env.INSTAGRAM_ACCESS_TOKEN;
-  const limit = 5;
-  const url = `${endpoint}/${userId}/media/?fields=${fields}&access_token=${token}&count=${limit}`;
+  const userId = process.env.USER_ID;
+  const token = process.env.IG_TOKEN;
+  const url = `https://graph.instagram.com/${userId}/media?fields=id,%20caption,link,media_url&access_token=${token}`;
 
   axios
     .get(url)
