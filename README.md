@@ -6,12 +6,12 @@
 
 
 ----------------------------------------------------------------------------------------------------------
-## Market and Problem Definition:
-### :pushpin:Potential clients: digital influencers, photographers or anyone who wants to spend less time uploading/updating the recent images or photos in your blog or portfolio. 
+## :pushpin: Market and Problem Definition:
+###  Potential clients: digital influencers, photographers or anyone who wants to spend less time uploading/updating the recent images or photos in your blog or portfolio. 
 
 -  :camera:  The social media integration, using Instagram, would help any of these clients to get more visibility or even some paid partnership. Instagram gives you the opportunity to learn more about your audience and reach them very easily. 
 
--  Unsure about adding your Instagram's feed to your website? Please take a look at[Benefits of adding an Instagram feed to your feed](https://flockler.com/blog/instagram-feed-on-website-examples).
+-  Unsure about adding your Instagram's feed to your website? Please take a look at [Benefits of adding an Instagram feed to your feed](https://flockler.com/blog/instagram-feed-on-website-examples).
 
 -------------------------------------------------------------------------------------------------------
 ## :city_sunset: How to add a image/photo to the website (Task Flow):
