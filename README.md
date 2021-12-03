@@ -51,26 +51,26 @@
 ## :lock: Security & Instagram Policy:
 
 - [What kinds of information does Instagram collect?](help.instagram.com/519522125107875/?helpref=uf_share)
-- We've  used a token to get access to the account.
+- [What does token mean on Instagram?](https://developers.facebook.com/docs/instagram-basic-display-api/overview/)
 - [Get Access Tokens and Permissions](https://developers.facebook.com/docs/instagram-basic-display-api/guides/getting-access-tokens-and-permissions/).
 
 
 ## :closed_lock_with_key: For Developers - Secure API token/key: 
  How to Get Instagram Access Token 
 
-Step 1 - Register Application on Facebook for Developers. 
+* Step 1 - Register Application on Facebook for Developers. 
           1.1 Log into Facebook
           1.2 Go to Facebook Developers Account 
           1.3 Add a New App
 
-Step 2 - Register New App. 
+* Step 2 - Register New App. 
 
-Step 3 - Configure Instagram Basic Display.
-          - 3.1 Click Set Up under the Instagram Basic Display
+* Step 3 - Configure Instagram Basic Display.
+          3.1 Click Set Up under the Instagram Basic Display
           - 3.2 Navigate to the Basic Display and scroll to the very bottom of the page. Click the Create New App button
           - 3.3 As the name of the App choose the name you created in Step 2
 
-Step 4 - Get the Access Token.
+* Step 4 - Get the Access Token.
           - 4.1 Navigate to the Basic Display section
           - 4.2 Find the Add or Remove Instagram Testers section and click the button
           - 4.3 Add the Instagram User ID (IG username) for the account you want to add as an Instagram Tester
@@ -82,9 +82,9 @@ Step 4 - Get the Access Token.
           - 4.9 Scroll to the User Token Generator Section and click the Generate Token button
           - 4.10 Copy the Access Token from the pop-up window
 
-Step 5 - Copy the Access Token to the Plugin Setting
+* Step 5 - Copy the Access Token to the Plugin Setting
 
-Step 6: For security reason add the generated token and id number to your `.env file`. So it will not show the token  in the public source code.
+* Step 6: For security reason add the generated token and id number to your `.env file`. So it will not show the token  in the public source code.
 
 ----------------------------------------------------------------------------------------------------------
 ## :pushpin:Attributions:
