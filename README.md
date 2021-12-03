@@ -1,17 +1,19 @@
 # DSGN 270 Assignment 3 - Social Integration Proof-of-Concept
 ## Author: Mysia Santana
 ### Links:
+* [Github repo](https://github.com/Mysia14/dsgn270-a3)
+* [Live integration link](https://awesome-hugle-b156ed.netlify.app/)
 
-* [Github repo]:(https://github.com/Mysia14/dsgn270-a3)
-* [Live integration link]: (https://awesome-hugle-b156ed.netlify.app/)
+
 ----------------------------------------------------------------------------------------------------------
-# Market and Problem definition
-## :pushpin:Potential clients: digital influencers, photographers or anyone who wants to spend less time uploading/updating the recent images or photos in your blog or portfolio. 
+## Market and Problem Definition:
+### :pushpin:Potential clients: digital influencers, photographers or anyone who wants to spend less time uploading/updating the recent images or photos in your blog or portfolio. 
 
 -  :camera:  The social media integration, using Instagram, would help any of these clients to get more visibility or even some paid partnership. Instagram gives you the opportunity to learn more about your audience and reach them very easily. 
 
 -  Unsure about adding your Instagram's feed to your website? Please take a look at[Benefits of adding an Instagram feed to your feed](https://flockler.com/blog/instagram-feed-on-website-examples).
 
+-------------------------------------------------------------------------------------------------------
 ## :city_sunset: How to add a image/photo to the website (Task Flow):
 
 1. Open Instagram.com in a web browser and then enter your Instagram username or the phone number or email address associated with the account. After that, enter your password and tap Log In.
@@ -47,6 +49,7 @@
 - All the endpoints must start with "graph.instagram.com"
 
 - Refer to the developer documentation [here](https://developers.facebook.com/docs/instagram-basic-display-api/overview#user-token-generator) to learn more. 
+
 
 ## :lock: Security & Instagram Policy:
 
