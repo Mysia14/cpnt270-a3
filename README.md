@@ -1,5 +1,10 @@
 # DSGN 270 Assignment 3 - Social Integration Proof-of-Concept
+## Author: Mysia Santana
+### Links:
 
+* [Github repo]:(https://github.com/Mysia14/dsgn270-a3)
+* [Live integration link]: (https://awesome-hugle-b156ed.netlify.app/)
+----------------------------------------------------------------------------------------------------------
 ## Market and Problem definition
 ### :pushpin:Potential clients: digital influencers, photographers or anyone who wants to spend less time uploading/updating the recent images or photos in your blog or portfolio. 
 
@@ -7,7 +12,7 @@
 
 -  Unsure about adding your Instagram feed to your website? Please take a look at[Benefits of adding an Instagram feed to your feed](https://flockler.com/blog/instagram-feed-on-website-examples).
 
-## How to add a image/photo to the website:
+## :city_sunset: How to add a image/photo to the website (Task Flow):
 
 1. Open Instagram.com in a web browser and then enter your Instagram username or the phone number or email address associated with the account. After that, enter your password and tap Log In.
 
@@ -44,28 +49,13 @@
 - Refer to the developer documentation [here](https://developers.facebook.com/docs/instagram-basic-display-api/overview#user-token-generator) to learn more. 
 
 ## :lock: Security & Instagram Policy:
+
 - [What kinds of information does Instagram collect?](help.instagram.com/519522125107875/?helpref=uf_share)
 - We use a token to get access to the account
 - [Get Access Tokens and Permissions](https://developers.facebook.com/docs/instagram-basic-display-api/guides/getting-access-tokens-and-permissions/).
 
 
-# :pushpin:Attributions:
-* [Tony Grimmes](https://github.com/acidtone)(Instructor): Code sctructure
-* [Jessica Watson](https://github.com/Enyorose) : helped me wiht the functions and to write the user story with proper english.
-
-* References:
-    - https://docs.oceanwp.org/article/487-how-to-get-instagram-access-token
-    - https://developers.facebook.com/docs/instagram-basic-display-api 
-    -  Doesn't know to post on Instagram?(https://help.instagram.com/442418472487929)
-
-* Images/posts:
-    - Fall Image [Pexel -  Craig Adderley](https://www.pexels.com/photo/concrete-road-between-trees-1563356/).
-    - Winter Image [Pexel -Pixabay](https://www.pexels.com/photo/snowy-forest-235621/)
-    - Summer Image [Pexel - MarcTutorials from Pexel](https://www.pexels.com/photo/palm-trees-1152359/)
-    - Moutain Image [Khorfi_vahle](https://pixabay.com/users/kordi_vahle-4934524/)
-
-
-### For Developers
+### :closed_lock_with_key: For Developers - Secure API token/key: 
 :lock: How to Get Instagram Access Token 
 
 Step 1 - Register Application on Facebook for Developers. 
@@ -93,10 +83,22 @@ Step 4 - Get the Access Token.
           4.10 Copy the Access Token from the pop-up window
 
 Step 5 - Copy the Access Token to the Plugin Setting
- ## :pushpin:Submiting requirements:
-Zip your project (excluding node_modules and .env file) and submit them to Brightspace.
-Include the following as a comment with your Brightspace submission:
-Relevant GH repo(s);
-Live integration link;
-Link to the social media test account;
-Login information for the social media test account.
+
+Step 6: For security reason add the generated token and id number to your ".env file". So it will not show the token  in the public source code.
+
+----------------------------------------------------------------------------------------------------------
+# :pushpin:Attributions:
+* [Tony Grimmes](https://github.com/acidtone)(Instructor): Code sctructure
+* [Jessica Watson](https://github.com/Enyorose) : helped me wiht the functions and to write the user story with proper english and has clarified the assignments instructions for me.
+
+* References:
+    - https://docs.oceanwp.org/article/487-how-to-get-instagram-access-token
+    - https://developers.facebook.com/docs/instagram-basic-display-api 
+    -  Doesn't know to post on Instagram?(https://help.instagram.com/442418472487929)
+
+* Images/posts:
+    - Fall Image [Pexel -  Craig Adderley](https://www.pexels.com/photo/concrete-road-between-trees-1563356/).
+    - Winter Image [Pexel -Pixabay](https://www.pexels.com/photo/snowy-forest-235621/)
+    - Summer Image [Pexel - MarcTutorials from Pexel](https://www.pexels.com/photo/palm-trees-1152359/)
+    - Moutain Image [Khorfi_vahle](https://pixabay.com/users/kordi_vahle-4934524/)
+
