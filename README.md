@@ -7,6 +7,7 @@
 
 ----------------------------------------------------------------------------------------------------------
 ## :pushpin: Market and Problem Definition:
+#### User Story: As person who like to take photos and make them public, I'd like my Instagram updates to show up on my website because some of my regulars don't use social media.
 ###  Potential clients: digital influencers, photographers or anyone who wants to spend less time uploading/updating the recent images or photos in your blog or portfolio. 
 
 -  :camera:  The social media integration, using Instagram, would help any of these clients to get more visibility or even some paid partnership. Instagram gives you the opportunity to learn more about your audience and reach them very easily. 
@@ -22,7 +23,7 @@
     * Click the + button in the top right corner. It'll appear between the messages and compass icons.
     * Drag and drop photos or videos, or select from your computer.
     * Add filters and edits to your post. 
-    * Add a caption and geo tag, and tag people in the post.(Don't forget to add the #trip on your caption so your recent photo will be displayed to your website).
+    * Add a caption and geo tag, and tag people in the post.(Don't forget to add the `#trip` on your caption so your recent photo will be displayed to your website).
  
 4. Click Share.
 
