@@ -1,53 +1,72 @@
 # DSGN 270 Assignment 3 - Social Integration Proof-of-Concept
 
-### :pushpin:Market and Problem definition
+## Market and Problem definition
+### :pushpin:Potential clients: digital influencers, photographers or anyone who wants to spend less time uploading/updating the recent images or photos in your blog or portfolio. 
 
-- Potential client: digital influencers, photographers or anyone who doesnt want to spend too much time updating their blog wiht their recent images.
--  :camera:  This integration would help A Digital Influencer who wants show her photos from trips around the world to her new blog about traveling so she can get more visibility to get some  paid partnership and  wanna spend less time uploading her blog as she uses much more her instagram . update her portfolio and upgrade her blog faster.
-- This tool will be a great choice for those wants make their work more visivble and well known for those who uses this social media tool.
-(100-150 word summary of the market and problem that your social media integration solves).
+-  :camera:  The social media integration, using Instagram, would help any of these clients to get more visibility or even some paid partnership. Instagram gives you the opportunity to learn more about your audience and reach them very easily. 
 
+-  Unsure about adding your Instagram feed to your website? Please take a look at[Benefits of adding an Instagram feed to your feed](https://flockler.com/blog/instagram-feed-on-website-examples).
 
+## How to add a image/photo to the website:
 
+1. Open Instagram.com in a web browser and then enter your Instagram username or the phone number or email address associated with the account. After that, enter your password and tap Log In.
 
-
-## Clients steps: // explicar o maximo que puder//
-
-1. Go to (netlify link)
-2. Open Instagram.com in a web browser and then enter your Instagram username or the phone number or email address associated with the account. After that, enter your password and tap Log In.
-3. Creat a new post 
+2. Creat a new post 
     * Click the + button in the top right corner. It'll appear between the messages and compass icons.
     * Drag and drop photos or videos, or select from your computer.
     * Add filters and edits to your post. 
     * Add a caption and geo tag, and tag people in the post.(Don't forget to add the #trip on your caption so your recent photo will be displayed to your website).
-    * 
  
 4. Click Share.
-5. Then go back to your page and check your new post in the page.
 
-Doesn't know to post on Instagram? Check this out: (https://help.instagram.com/442418472487929)
+5. Close the Post Share window.
+
+5. Then go back to your page. 
+
+6. Refresh it and check your new post in the page.
+
+1. Go to (https://awesome-hugle-b156ed.netlify.app/)
+
+
+ 
+-----------------------------------------------------------------------------------------------------
 
 ## API Documentation
 
--   Instagram Basic Display API :https://developers.facebook.com/docs/instagram-basic-display-api 
-- To generate a Token: https://developers.facebook.com/docs/instagram-basic-display-api/overview#user-token-generator
-- For more guidance on getting through our App Review process, please see [click here](https://developers.facebook.com/blog/post/2020/03/10/final-reminder-Instagram-legacy-api-platform-disabled-mar-31/)
+- The [Instagram Basic Display API](https://developers.facebook.com/docs/instagram-basic-display-api) allows users of your app to get basic profile information, photos, and videos in their Instagram accounts. The API can be used to access any type of Instagram account but only provides read-access to basic data.   
+
+- To generate a Token: (https://developers.facebook.com/docs/instagram-basic-display-api/overview#user-token-generator).
+
+- For more guidance on getting through our App Review process, please see [click here](https://developers.facebook.com/blog/post/2020/03/10/final-reminder-Instagram-legacy-api-platform-disabled-mar-31/).
+
 - All the endpoints must start with "graph.instagram.com"
 - Refer to the developer documentation [here](https://developers.facebook.com/docs/instagram-basic-display-api/overview#user-token-generator) to learn more. 
-## Security:
-- The app is using a secure token they are hidden (procurar documentation sobre seguranca token)
-## :pushpin:Attributions:
+
+## :lock: Security & Instagram Policy:
+- [What kinds of information does Instagram collect?](help.instagram.com/519522125107875/?helpref=uf_share)
+- We use a token to get access to the account
+- [Get Access Tokens and Permissions](https://developers.facebook.com/docs/instagram-basic-display-api/guides/getting-access-tokens-and-permissions/).
+
+
+# :pushpin:Attributions:
 * [Tony Grimmes](https://github.com/acidtone)(Instructor): Code sctructure
 * Images (instagram):Pexels (to add)
 * [Jessica Watson](https://github.com/Enyorose) : helped me wiht the functions and to write the story 
 * References:
-- https://docs.oceanwp.org/article/487-how-to-get-instagram-access-token
-- https://developers.facebook.com/docs/instagram-basic-display-api 
+    - https://docs.oceanwp.org/article/487-how-to-get-instagram-access-token
+    - https://developers.facebook.com/docs/instagram-basic-display-api 
+    Doesn't know to post on Instagram? Check this out: (https://help.instagram.com/442418472487929)
+
+* Images/posts:
+    - Fall Image [Pexel -  Craig Adderley](https://www.pexels.com/photo/concrete-road-between-trees-1563356/).
+    - Winter Image [Pexel -Pixabay](https://www.pexels.com/photo/snowy-forest-235621/)
+    - Summer Image [Pexel - MarcTutorials from Pexel](https://www.pexels.com/photo/palm-trees-1152359/)
+    - Moutain Image [Khorfi_vahle](https://pixabay.com/users/kordi_vahle-4934524/)
 
 
 
 ### For Developers
-:lock: How to Get Instagram Access Token :lock:
+:lock: How to Get Instagram Access Token 
 
 Step 1 - Register Application on Facebook for Developers. 
           1.1 Log into Facebook
