@@ -33,7 +33,7 @@
 
 6. Refresh it and check your new post in the page.
 
-1. Then please go to (https://awesome-hugle-b156ed.netlify.app/).
+7. Then please go to (https://awesome-hugle-b156ed.netlify.app/). It will show your last photo/image you have posted.
 
 
  
