@@ -40,6 +40,7 @@
 - For more guidance on getting through our App Review process, please see [click here](https://developers.facebook.com/blog/post/2020/03/10/final-reminder-Instagram-legacy-api-platform-disabled-mar-31/).
 
 - All the endpoints must start with "graph.instagram.com"
+
 - Refer to the developer documentation [here](https://developers.facebook.com/docs/instagram-basic-display-api/overview#user-token-generator) to learn more. 
 
 ## :lock: Security & Instagram Policy:
@@ -50,19 +51,18 @@
 
 # :pushpin:Attributions:
 * [Tony Grimmes](https://github.com/acidtone)(Instructor): Code sctructure
-* Images (instagram):Pexels (to add)
-* [Jessica Watson](https://github.com/Enyorose) : helped me wiht the functions and to write the story 
+* [Jessica Watson](https://github.com/Enyorose) : helped me wiht the functions and to write the user story with proper english.
+
 * References:
     - https://docs.oceanwp.org/article/487-how-to-get-instagram-access-token
     - https://developers.facebook.com/docs/instagram-basic-display-api 
-    Doesn't know to post on Instagram? Check this out: (https://help.instagram.com/442418472487929)
+    -  Doesn't know to post on Instagram?(https://help.instagram.com/442418472487929)
 
 * Images/posts:
     - Fall Image [Pexel -  Craig Adderley](https://www.pexels.com/photo/concrete-road-between-trees-1563356/).
     - Winter Image [Pexel -Pixabay](https://www.pexels.com/photo/snowy-forest-235621/)
     - Summer Image [Pexel - MarcTutorials from Pexel](https://www.pexels.com/photo/palm-trees-1152359/)
     - Moutain Image [Khorfi_vahle](https://pixabay.com/users/kordi_vahle-4934524/)
-
 
 
 ### For Developers
