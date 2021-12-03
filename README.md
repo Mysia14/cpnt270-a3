@@ -55,7 +55,7 @@
 - [Get Access Tokens and Permissions](https://developers.facebook.com/docs/instagram-basic-display-api/guides/getting-access-tokens-and-permissions/).
 
 
-### :closed_lock_with_key: For Developers - Secure API token/key: 
+## :closed_lock_with_key: For Developers - Secure API token/key: 
  How to Get Instagram Access Token 
 
 Step 1 - Register Application on Facebook for Developers. 
@@ -84,17 +84,17 @@ Step 4 - Get the Access Token.
 
 Step 5 - Copy the Access Token to the Plugin Setting
 
-Step 6: For security reason add the generated token and id number to your ".env file". So it will not show the token  in the public source code.
+Step 6: For security reason add the generated token and id number to your `.env file`. So it will not show the token  in the public source code.
 
 ----------------------------------------------------------------------------------------------------------
 ## :pushpin:Attributions:
-* [Tony Grimmes](https://github.com/acidtone)(Instructor): Code sctructure
+* [Tony Grimmes](https://github.com/acidtone) (Instructor): Code sctructure
 * [Jessica Watson](https://github.com/Enyorose) : helped me wiht the functions and to write the user story with proper english and has clarified the assignments instructions for me.
 
-* References:
+* Extra References:
     - https://docs.oceanwp.org/article/487-how-to-get-instagram-access-token
     - https://developers.facebook.com/docs/instagram-basic-display-api 
-    -  Doesn't know to post on Instagram?(https://help.instagram.com/442418472487929)
+    - Doesn't know to post on Instagram?(https://help.instagram.com/442418472487929)
 
 * Images/posts:
     - Fall Image [Pexel -  Craig Adderley](https://www.pexels.com/photo/concrete-road-between-trees-1563356/).
