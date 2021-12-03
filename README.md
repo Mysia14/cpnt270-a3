@@ -5,12 +5,12 @@
 * [Github repo]:(https://github.com/Mysia14/dsgn270-a3)
 * [Live integration link]: (https://awesome-hugle-b156ed.netlify.app/)
 ----------------------------------------------------------------------------------------------------------
-## Market and Problem definition
-### :pushpin:Potential clients: digital influencers, photographers or anyone who wants to spend less time uploading/updating the recent images or photos in your blog or portfolio. 
+# Market and Problem definition
+## :pushpin:Potential clients: digital influencers, photographers or anyone who wants to spend less time uploading/updating the recent images or photos in your blog or portfolio. 
 
 -  :camera:  The social media integration, using Instagram, would help any of these clients to get more visibility or even some paid partnership. Instagram gives you the opportunity to learn more about your audience and reach them very easily. 
 
--  Unsure about adding your Instagram feed to your website? Please take a look at[Benefits of adding an Instagram feed to your feed](https://flockler.com/blog/instagram-feed-on-website-examples).
+-  Unsure about adding your Instagram's feed to your website? Please take a look at[Benefits of adding an Instagram feed to your feed](https://flockler.com/blog/instagram-feed-on-website-examples).
 
 ## :city_sunset: How to add a image/photo to the website (Task Flow):
 
@@ -30,7 +30,7 @@
 
 6. Refresh it and check your new post in the page.
 
-1. Go to (https://awesome-hugle-b156ed.netlify.app/)
+1. Then please go to (https://awesome-hugle-b156ed.netlify.app/).
 
 
  
@@ -51,12 +51,12 @@
 ## :lock: Security & Instagram Policy:
 
 - [What kinds of information does Instagram collect?](help.instagram.com/519522125107875/?helpref=uf_share)
-- We use a token to get access to the account
+- We've  used a token to get access to the account.
 - [Get Access Tokens and Permissions](https://developers.facebook.com/docs/instagram-basic-display-api/guides/getting-access-tokens-and-permissions/).
 
 
 ### :closed_lock_with_key: For Developers - Secure API token/key: 
-:lock: How to Get Instagram Access Token 
+ How to Get Instagram Access Token 
 
 Step 1 - Register Application on Facebook for Developers. 
           1.1 Log into Facebook
@@ -87,7 +87,7 @@ Step 5 - Copy the Access Token to the Plugin Setting
 Step 6: For security reason add the generated token and id number to your ".env file". So it will not show the token  in the public source code.
 
 ----------------------------------------------------------------------------------------------------------
-# :pushpin:Attributions:
+## :pushpin:Attributions:
 * [Tony Grimmes](https://github.com/acidtone)(Instructor): Code sctructure
 * [Jessica Watson](https://github.com/Enyorose) : helped me wiht the functions and to write the user story with proper english and has clarified the assignments instructions for me.
 
